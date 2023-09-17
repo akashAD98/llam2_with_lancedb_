@@ -8,4 +8,5 @@ Meta has introduced a free, super-smart model called Llama-2. In this blog, we'r
 
 Medium-full blog
 
-collab link:
+Also Try  :
+<a href="https://colab.research.google.com/drive/1-KLXbVZjxOtA_B5EjWWlcHOTM477Fka2?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
